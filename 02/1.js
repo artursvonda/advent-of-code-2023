@@ -1,3 +1,4 @@
+// @ts-check
 import { readFile } from "node:fs/promises";
 
 // 12 red cubes, 13 green cubes, and 14 blue cubes
